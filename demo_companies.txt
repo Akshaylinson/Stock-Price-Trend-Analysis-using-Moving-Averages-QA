@@ -1,1 +1,75 @@
+| Company           | Ticker |
+| ----------------- | ------ |
+| Microsoft         | MSFT   |
+| Google (Alphabet) | GOOGL  |
+| Amazon            | AMZN   |
+| Meta (Facebook)   | META   |
+| Apple             | AAPL   |
+| Nvidia            | NVDA   |
+| Tesla             | TSLA   |
+| Adobe             | ADBE   |
+| Intel             | INTC   |
+| IBM               | IBM    |
+
+| Company             | Ticker       |
+| ------------------- | ------------ |
+| JPMorgan Chase      | JPM          |
+| Goldman Sachs       | GS           |
+| Morgan Stanley      | MS           |
+| Citigroup           | C            |
+| Bank of America     | BAC          |
+| HDFC Bank (India)   | HDFCBANK.NS  |
+| ICICI Bank (India)  | ICICIBANK.NS |
+| State Bank of India | SBIN.NS      |
+
+
+| Company             | Ticker        |
+| ------------------- | ------------- |
+| Ford                | F             |
+| General Motors      | GM            |
+| Toyota              | TM            |
+| Tata Motors (India) | TATAMOTORS.NS |
+| Mahindra & Mahindra | M&M.NS        |
+| Maruti Suzuki       | MARUTI.NS     |
+
+
+| Company                     | Ticker        |
+| --------------------------- | ------------- |
+| ExxonMobil                  | XOM           |
+| Chevron                     | CVX           |
+| Shell                       | SHEL          |
+| Reliance Industries (India) | RELIANCE.NS   |
+| ONGC (India)                | ONGC.NS       |
+| Adani Green Energy          | ADANIGREEN.NS |
+
+
+| Company            | Ticker        |
+| ------------------ | ------------- |
+| Walmart            | WMT           |
+| Costco             | COST          |
+| Procter & Gamble   | PG            |
+| Hindustan Unilever | HINDUNILVR.NS |
+| Nestle India       | NESTLEIND.NS  |
+| Britannia          | BRITANNIA.NS  |
+
+
+| Company                | Ticker        |
+| ---------------------- | ------------- |
+| AT&T                   | T             |
+| Verizon                | VZ            |
+| Bharti Airtel (India)  | BHARTIARTL.NS |
+| Jio Financial Services | JIOFIN.NS     |
+
+
+| Company            | Ticker       |
+| ------------------ | ------------ |
+| Johnson & Johnson  | JNJ          |
+| Pfizer             | PFE          |
+| Moderna            | MRNA         |
+| Sun Pharma (India) | SUNPHARMA.NS |
+| Dr. Reddy’s        | DRREDDY.NS   |
+| Cipla              | CIPLA.NS     |
+
+
+
 
